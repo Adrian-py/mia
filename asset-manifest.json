@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/12MiaOne/static/css/main.5c5cf2a4.chunk.css",
+    "main.js": "/12MiaOne/static/js/main.d6487c87.chunk.js",
+    "main.js.map": "/12MiaOne/static/js/main.d6487c87.chunk.js.map",
+    "runtime-main.js": "/12MiaOne/static/js/runtime-main.519322b2.js",
+    "runtime-main.js.map": "/12MiaOne/static/js/runtime-main.519322b2.js.map",
+    "static/js/2.b37c8bfb.chunk.js": "/12MiaOne/static/js/2.b37c8bfb.chunk.js",
+    "static/js/2.b37c8bfb.chunk.js.map": "/12MiaOne/static/js/2.b37c8bfb.chunk.js.map",
+    "index.html": "/12MiaOne/index.html",
+    "precache-manifest.3cfb2e3c3dfb43c2ed9d11d0885bbce7.js": "/12MiaOne/precache-manifest.3cfb2e3c3dfb43c2ed9d11d0885bbce7.js",
+    "service-worker.js": "/12MiaOne/service-worker.js",
+    "static/css/main.5c5cf2a4.chunk.css.map": "/12MiaOne/static/css/main.5c5cf2a4.chunk.css.map",
+    "static/js/2.b37c8bfb.chunk.js.LICENSE.txt": "/12MiaOne/static/js/2.b37c8bfb.chunk.js.LICENSE.txt",
+    "static/media/Juanda.jpg": "/12MiaOne/static/media/Juanda.f4c6c58f.jpg",
+    "static/media/App.css": "/12MiaOne/static/media/bg.3d7e59a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.519322b2.js",
+    "static/js/2.b37c8bfb.chunk.js",
+    "static/css/main.5c5cf2a4.chunk.css",
+    "static/js/main.d6487c87.chunk.js"
+  ]
+}
