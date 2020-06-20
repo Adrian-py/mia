@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/MIA/static/css/main.00ada7d7.chunk.css",
-    "main.js": "/MIA/static/js/main.c624baa0.chunk.js",
-    "main.js.map": "/MIA/static/js/main.c624baa0.chunk.js.map",
-    "runtime-main.js": "/MIA/static/js/runtime-main.b166600d.js",
-    "runtime-main.js.map": "/MIA/static/js/runtime-main.b166600d.js.map",
-    "static/js/2.b37c8bfb.chunk.js": "/MIA/static/js/2.b37c8bfb.chunk.js",
-    "static/js/2.b37c8bfb.chunk.js.map": "/MIA/static/js/2.b37c8bfb.chunk.js.map",
-    "index.html": "/MIA/index.html",
-    "precache-manifest.764768c2b10ecc547ec79619be3114d9.js": "/MIA/precache-manifest.764768c2b10ecc547ec79619be3114d9.js",
-    "service-worker.js": "/MIA/service-worker.js",
-    "static/css/main.00ada7d7.chunk.css.map": "/MIA/static/css/main.00ada7d7.chunk.css.map",
-    "static/js/2.b37c8bfb.chunk.js.LICENSE.txt": "/MIA/static/js/2.b37c8bfb.chunk.js.LICENSE.txt",
-    "static/media/Juanda.jpg": "/MIA/static/media/Juanda.f4c6c58f.jpg",
-    "static/media/App.css": "/MIA/static/media/bg.3d7e59a8.jpg"
+    "main.css": "/mia/static/css/main.fa1753a4.chunk.css",
+    "main.js": "/mia/static/js/main.c92aa521.chunk.js",
+    "main.js.map": "/mia/static/js/main.c92aa521.chunk.js.map",
+    "runtime-main.js": "/mia/static/js/runtime-main.9bf2e67a.js",
+    "runtime-main.js.map": "/mia/static/js/runtime-main.9bf2e67a.js.map",
+    "static/js/2.b37c8bfb.chunk.js": "/mia/static/js/2.b37c8bfb.chunk.js",
+    "static/js/2.b37c8bfb.chunk.js.map": "/mia/static/js/2.b37c8bfb.chunk.js.map",
+    "index.html": "/mia/index.html",
+    "precache-manifest.9f828d2ac7efd87110d221c841c14a7b.js": "/mia/precache-manifest.9f828d2ac7efd87110d221c841c14a7b.js",
+    "service-worker.js": "/mia/service-worker.js",
+    "static/css/main.fa1753a4.chunk.css.map": "/mia/static/css/main.fa1753a4.chunk.css.map",
+    "static/js/2.b37c8bfb.chunk.js.LICENSE.txt": "/mia/static/js/2.b37c8bfb.chunk.js.LICENSE.txt",
+    "static/media/Juanda.jpg": "/mia/static/media/Juanda.f4c6c58f.jpg",
+    "static/media/App.css": "/mia/static/media/bg.3d7e59a8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b166600d.js",
+    "static/js/runtime-main.9bf2e67a.js",
     "static/js/2.b37c8bfb.chunk.js",
-    "static/css/main.00ada7d7.chunk.css",
-    "static/js/main.c624baa0.chunk.js"
+    "static/css/main.fa1753a4.chunk.css",
+    "static/js/main.c92aa521.chunk.js"
   ]
 }
