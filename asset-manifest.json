@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mia/static/css/main.4b4d1e68.chunk.css",
+    "main.css": "/mia/static/css/main.3dc05156.chunk.css",
     "main.js": "/mia/static/js/main.cb36bb50.chunk.js",
     "main.js.map": "/mia/static/js/main.cb36bb50.chunk.js.map",
     "runtime-main.js": "/mia/static/js/runtime-main.9bf2e67a.js",
@@ -8,9 +8,9 @@
     "static/js/2.9a151a27.chunk.js": "/mia/static/js/2.9a151a27.chunk.js",
     "static/js/2.9a151a27.chunk.js.map": "/mia/static/js/2.9a151a27.chunk.js.map",
     "index.html": "/mia/index.html",
-    "precache-manifest.0b5323fb835fcb63021ff01334b5640a.js": "/mia/precache-manifest.0b5323fb835fcb63021ff01334b5640a.js",
+    "precache-manifest.be83dc4b804ba6b5ed1c3d82a124f095.js": "/mia/precache-manifest.be83dc4b804ba6b5ed1c3d82a124f095.js",
     "service-worker.js": "/mia/service-worker.js",
-    "static/css/main.4b4d1e68.chunk.css.map": "/mia/static/css/main.4b4d1e68.chunk.css.map",
+    "static/css/main.3dc05156.chunk.css.map": "/mia/static/css/main.3dc05156.chunk.css.map",
     "static/js/2.9a151a27.chunk.js.LICENSE.txt": "/mia/static/js/2.9a151a27.chunk.js.LICENSE.txt",
     "static/media/1.gif": "/mia/static/media/1.45e19a55.gif",
     "static/media/2.gif": "/mia/static/media/2.0b500e63.gif",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.9bf2e67a.js",
     "static/js/2.9a151a27.chunk.js",
-    "static/css/main.4b4d1e68.chunk.css",
+    "static/css/main.3dc05156.chunk.css",
     "static/js/main.cb36bb50.chunk.js"
   ]
 }
