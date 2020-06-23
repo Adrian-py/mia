@@ -1,24 +1,34 @@
 {
   "files": {
-    "main.css": "/mia/static/css/main.5f5cd2df.chunk.css",
-    "main.js": "/mia/static/js/main.95a8ae79.chunk.js",
-    "main.js.map": "/mia/static/js/main.95a8ae79.chunk.js.map",
+    "main.css": "/mia/static/css/main.6936272e.chunk.css",
+    "main.js": "/mia/static/js/main.85400acc.chunk.js",
+    "main.js.map": "/mia/static/js/main.85400acc.chunk.js.map",
     "runtime-main.js": "/mia/static/js/runtime-main.9bf2e67a.js",
     "runtime-main.js.map": "/mia/static/js/runtime-main.9bf2e67a.js.map",
-    "static/js/2.59e94190.chunk.js": "/mia/static/js/2.59e94190.chunk.js",
-    "static/js/2.59e94190.chunk.js.map": "/mia/static/js/2.59e94190.chunk.js.map",
+    "static/js/2.cc926b37.chunk.js": "/mia/static/js/2.cc926b37.chunk.js",
+    "static/js/2.cc926b37.chunk.js.map": "/mia/static/js/2.cc926b37.chunk.js.map",
     "index.html": "/mia/index.html",
-    "precache-manifest.606222fb717bab23b41e410daff16ea2.js": "/mia/precache-manifest.606222fb717bab23b41e410daff16ea2.js",
+    "precache-manifest.3b87b0f8a1844342c667d409d83d7fb4.js": "/mia/precache-manifest.3b87b0f8a1844342c667d409d83d7fb4.js",
     "service-worker.js": "/mia/service-worker.js",
-    "static/css/main.5f5cd2df.chunk.css.map": "/mia/static/css/main.5f5cd2df.chunk.css.map",
-    "static/js/2.59e94190.chunk.js.LICENSE.txt": "/mia/static/js/2.59e94190.chunk.js.LICENSE.txt",
+    "static/css/main.6936272e.chunk.css.map": "/mia/static/css/main.6936272e.chunk.css.map",
+    "static/js/2.cc926b37.chunk.js.LICENSE.txt": "/mia/static/js/2.cc926b37.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/mia/static/media/1.5ee0bc02.jpg",
+    "static/media/10.jpg": "/mia/static/media/10.a26b47e0.jpg",
+    "static/media/2.jpg": "/mia/static/media/2.58fe3b50.jpg",
+    "static/media/3.jpg": "/mia/static/media/3.37728b47.jpg",
+    "static/media/4.jpg": "/mia/static/media/4.de3545d1.jpg",
+    "static/media/5.jpg": "/mia/static/media/5.eb379ae8.jpg",
+    "static/media/6.jpg": "/mia/static/media/6.d605da8b.jpg",
+    "static/media/7.jpg": "/mia/static/media/7.6a91b408.jpg",
+    "static/media/8.jpg": "/mia/static/media/8.a8d2f0e6.jpg",
+    "static/media/9.jpg": "/mia/static/media/9.50c0b3ec.jpg",
     "static/media/Juanda.jpg": "/mia/static/media/Juanda.f4c6c58f.jpg",
     "static/media/App.css": "/mia/static/media/bg.fa9e25de.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9bf2e67a.js",
-    "static/js/2.59e94190.chunk.js",
-    "static/css/main.5f5cd2df.chunk.css",
-    "static/js/main.95a8ae79.chunk.js"
+    "static/js/2.cc926b37.chunk.js",
+    "static/css/main.6936272e.chunk.css",
+    "static/js/main.85400acc.chunk.js"
   ]
 }
